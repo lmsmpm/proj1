@@ -1,0 +1,10 @@
+WAREHOUSE
+============
+You know the ecommerce business plays a vital role for development of any country..and the popularity among the young generation to go for the ecommerce business has increased over a period of time as some wide varities of products are available at a very competitive price..
+    Supply chain management is the domain..scm means it fulfill all the requirement of end user by fetching the item from manufacturing companies to enduser in different stages..
+  so all the stages are
+    factory--->warehouse--->subdealer--->auth dealer--->enduser
+we are implementing warehouse which is between mfg companies to dealers...
+    Warehouse is a storage location of items which are purchased from mfg companies and sold it to end user..
+
+    Warehouse is a central web application used for logistic and supply chain process in real time..it is used to maintain item details,stock based on locations,inbound and outbound operation warehouse billings based on vendor and customers. It also supports easy invoice generations for all types of warehouse users...It has central admin controller for all user handling ..Master data can be uploaded using Excel sheets and also supports old application integration...
